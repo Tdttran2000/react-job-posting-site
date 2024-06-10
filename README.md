@@ -1,4 +1,4 @@
-# React Jobs Project (YouTube)
+# React Jobs Project
 
 This is an app that displays different jobs (in this case, React specific roles) and allows the user to view more information about the jobs as well as to make their own job listings.
 
